@@ -1,169 +1,119 @@
+
 # A Janela Se Fechou
 
-**Quatro coisas já foram verdade sobre ser roubado por causa do seu bitcoin.
-Nenhuma delas é verdade hoje, e nenhuma vai voltar. E quase todo conselho que
-você já recebeu sobre como se proteger foi calibrado para o mundo em que elas
-eram verdade.**
+Todo mundo dá o mesmo conselho sobre não ser roubado por causa do seu bitcoin. Não
+conte a ninguém. Se perguntarem, negue. Tenha uma carteirinha para entregar.
 
-![As quatro condições que tornavam seguro deter bitcoin no início, com a identificação riscada. Afirmação sobre incentivos, não medição.](assets/m1-four-panes.png)
+Não acho que seja um conselho burro. Acho que era um bom conselho para um mundo
+que deixou de existir, e ninguém voltou para conferir.
 
----
+<p align="center"><img src="assets/m1-four-panes.png" alt="As quatro condições que tornavam seguro deter bitcoin no início, com a identificação riscada. Afirmação sobre incentivos, não medição." width="460"></p>
 
-## Houve um tempo
+## Quatro coisas que já foram verdade
 
-Pense no que precisava dar certo para você, naquela época, para um ataque da
-chave de grifo simplesmente não acontecer.
+1. A maioria dos ladrões nunca tinha nem ouvido falar de bitcoin.
 
-**Primeiro: a maioria dos ladrões não fazia ideia do que era bitcoin.** Não é que
-subestimasse — nunca tinha ouvido a palavra. A categoria de criminoso capaz de
-sequer formar a intenção de roubar uma chave privada era mínima.
+2. Quem tinha ouvido dificilmente cruzaria com você (mais ou menos como achar uma agulha no palheiro).
 
-**Segundo: mesmo quem sabia dificilmente cruzaria com você.** Havia poucos
-detentores. Encontrar um por acaso, no meio de um assalto comum, era uma
-coincidência que na maior parte das vezes não acontecia.
+3. E se cruzasse, provavelmente não saberia que você, especificamente,
+era detentor. (A janela de eficácia da discrição como defesa.)
 
-**Terceiro — e é esse que as pessoas esquecem: eles precisavam saber que era
-você.** Encontrar um detentor não é o mesmo que identificar um. Sem um jeito de
-separar detentores de todo o resto, saber o que é bitcoin não serve de nada ao
-ladrão. É uma capacidade sem alvo.
+4. Por fim, se tudo isso falhasse e alguém aparecesse na sua porta, você
+provavelmente sabia mais do que ele. O detentor da época era tipicamente um OG,
+cypherpunk ou criptógrafo, gente que tinha lido a lista de e-mails. O atacante
+tipicamente improvisava. A assimetria técnica tendia a correr a seu favor.
 
-**Quarto: se os três falhassem e alguém viesse mesmo atrás de você, você
-provavelmente sabia mais do que ele.** O detentor da época era tipicamente
-cypherpunk, criptógrafo, gente que tinha lido a lista de e-mails. O atacante era
-tipicamente um amador com um plano improvisado naquela semana. A assimetria
-técnica tendia a correr a favor da vítima.
+Quatro coisas separadas, todas apontando na mesma direção. Ali dentro era mesmo
+bem seguro.
 
-Aquilo era uma janela de verdade, e lá dentro era genuinamente bem seguro.
+## Nenhuma delas vale hoje
 
-## O que substituiu cada um deles
+As duas primeiras não precisam de argumento.
 
-Na ordem.
+A quarta se inverteu. A promotoria francesa denunciou 88 pessoas em cerca de uma
+dúzia de casos ligados de sequestro e extorsão. Isso não é uma sequência de
+oportunistas, é organização, com reconhecimento prévio e divisão de trabalho e
+reincidência. Enquanto isso o detentor que eles procuram é hoje, estatisticamente,
+alguém que comprou bitcoin num aplicativo. O duelo criptógrafo contra amador
+praticamente trocou de lado.
 
-**Todo mundo sabe o que é bitcoin.** Esse não precisa de argumento.
+Dá para ver no formato dos ataques também. Uma contagem do setor para o primeiro
+semestre de 2026 mostra invasões de domicílio relatadas passando de 1 para 20 em
+52 incidentes, na comparação anual. Está indo para onde as pessoas moram.
 
-**Existem muitos detentores.** Também não precisa.
+<p align="center"><img src="assets/m6-home-invasions.png" alt="Invasões de domicílio relatadas passaram de 1 para 20 em 52 incidentes na comparação anual. Contagem de setor, apenas casos verificados, direcional." width="460"></p>
 
-**E agora dá para saber que é você.** Esse foi o que realmente virou o jogo, e eu
-volto nele daqui a pouco, porque merece seção própria.
+Sobre contagens em geral: existem várias séries, elas discordam entre si sobre os
+números e concordam inteiramente sobre a direção. Um punhado por ano antes de
+2017, dezenas por ano agora. Os registros são montados a partir da imprensa, então
+perdem o que não é noticiado e pesam demais o que virou manchete. Escolha a série
+que quiser. Todas inclinam para o mesmo lado.
 
-**E a assimetria se inverteu.** Quem faz isso hoje não está improvisando. A
-promotoria francesa denunciou 88 pessoas em cerca de uma dúzia de casos ligados de
-sequestro e extorsão — isso não é uma série de oportunistas, é organização, com
-reconhecimento prévio, divisão de trabalho e reincidência. Enquanto isso, o
-detentor que eles procuram é hoje, estatisticamente, uma pessoa comum que comprou
-bitcoin num aplicativo. O confronto criptógrafo-contra-amador virou algo mais
-próximo do seu oposto.
+Resta a terceira condição, que é a que de fato fechou a janela, e ela merece seção
+própria.
 
-Dá para ver a virada no formato dos ataques também. Em uma contagem do setor
-referente ao primeiro semestre de 2026, as **invasões de domicílio** relatadas
-passaram de **1 para 20** em 52 incidentes na comparação anual. O ataque está se
-mudando para onde as pessoas moram. Esse não é o perfil de um crime de
-oportunidade.
+## Alguém tem uma lista — fator 3
 
-![Invasões de domicílio relatadas passaram de 1 para 20 em 52 incidentes na comparação anual. Contagem de setor, apenas casos verificados, direcional.](assets/m6-home-invasions.png)
+Para ir atrás de você especificamente, o ladrão precisa de uma lista. Durante
+quase toda a história do bitcoin não havia.
 
-Sobre contagens em geral: existem várias séries disponíveis de quantos casos
-acontecem por ano, elas discordam entre si sobre os números exatos, e concordam
-inteiramente sobre a direção — um punhado por ano antes de 2017, dezenas por ano
-agora. Prefiro te contar isso a escolher o número mais alarmante e apresentá-lo
-como pacífico. Os registros são montados a partir da imprensa, então perdem tudo
-o que não é noticiado e super-representam o que virou manchete.
+Agora há várias, e você não concordou com nenhuma. Relatórios de inteligência
+sobre a onda de 2026 atribuem a escolha das vítimas a bases vazadas, registros
+fiscais e dados de corretoras, mais venda interna de listas de clientes e
+recrutamento na dark web de funcionários com acesso a banco de dados. Análise de
+cadeia por cima disso. Uma década de gente postando o que tem por cima daquilo.
 
-## A lista de alvos agora é pública
+São registros em poder de outras pessoas, que você não pode auditar nem revogar.
+Não dá para descriar um registro e não dá para desvazar um vazamento. O que a sua
+corretora sabia de você em 2019 ela sabe para sempre, e quem depois pôs a mão no
+que ela sabia, também.
 
-Aqui está a parte que fechou a janela de vez.
+<p align="center"><img src="assets/m3-shredder.png" alt="Um registro de KYC entra num triturador e sai intacto. Não dá para desvazar um vazamento." width="460"></p>
 
-Para um ladrão mirar em você especificamente, ele precisa de uma lista. Durante
-quase toda a história do bitcoin não havia lista. Agora há várias, e você não
-consentiu com nenhuma delas.
+Isso faz uma coisa estranha com a economia de ficar quieto, e as duas metades
+correm contra você. Se manter discreto custa mais a cada ano: cada ano que você
+segura, cada contraparte, cada serviço que de repente quer um documento. E vale
+menos a cada ano, porque a sua discrição só te compra alguma coisa se ninguém já
+tiver te publicado.
 
-Relatórios de inteligência sobre a onda de 2026 atribuem a seleção de vítimas a
-bases de dados vazadas, registros fiscais e dados de corretoras — mais venda
-interna de listas de clientes e recrutamento na dark web de funcionários com
-acesso a banco de dados. A análise de cadeia vem por cima disso. E uma década de
-gente falando publicamente do que tem vem por cima *daquilo*.
+<p align="center"><img src="assets/m2-scissors.png" alt="Duas curvas esquemáticas: o custo de se manter discreto subindo, o valor disso caindo. Nenhuma é quantificada; a forma é a afirmação." width="680"></p>
 
-Repare no tipo de problema que é esse. São **registros em poder de terceiros, que
-você não pode auditar nem revogar.** Não dá para descriar um registro. Não dá para
-desvazar um vazamento. O que a corretora sabe de você, ela sabe para sempre — e
-quem um dia obtiver o que ela sabe, também.
+Se você declara imposto é pior, porque a estratégia nem está disponível. Onde
+ganhos são declaráveis, "não deixe registro" não é discrição, é crime. Então o
+detentor honesto é mandado se esconder por gente que não percebeu que a lei não
+deixa.
 
-![Um registro de KYC entra num triturador e sai intacto. Não dá para desvazar um vazamento.](assets/m3-shredder.png)
-
-O que significa que a discrição tem uma curva de custo bem incomum, e as duas
-metades correm contra você. O preço de se manter discreto acumula a cada ano que
-você segura e a cada contraparte com quem você lida. O benefício encolhe conforme
-cresce o monte de registros já vazados, porque a sua discrição só vale alguma
-coisa se ninguém já tiver te publicado. Você paga mais, todo ano, por algo que
-vale menos, todo ano.
-
-![Duas curvas esquemáticas: o custo de se manter discreto subindo, o valor disso caindo. Nenhuma é quantificada; a forma é a afirmação.](assets/m2-scissors.png)
-
-E se você declara imposto, a estratégia nem sequer está disponível. Onde
-patrimônio ou ganho é declarável, "não deixe registro" não é discrição — é crime.
-Então o detentor honesto é mandado se esconder por gente que não percebeu que se
-esconder é algo que a lei não permite a ele.
-
-Tenho um texto inteiro vindo sobre o caso da administração fiscal francesa que
-coloca isso fora de discussão. Por ora: a lista existe, você está nela, e ninguém
-te perguntou.
-
-## Que tipo de afirmação é essa
-
-Uma pergunta justa a esta altura: como você saberia se isso estivesse errado?
-
-Você não saberia, e eu prefiro dizer isso do que maquiar.
-
-Não é uma previsão que você possa falsear contando. É uma afirmação sobre
-estrutura — sobre o que pessoas com esses incentivos, diante dessas restrições,
-fazem. Os casos e as contagens deste texto são **ilustrações da estrutura, não
-evidência dela**. Se o registro mostrasse metade dos ataques no ano que vem, nem
-uma frase acima se tornaria falsa; os incentivos seriam exatamente os que são
-agora.
-
-Isso soa como fraqueza. Existe um argumento mais longo de que não é — e um
-argumento bem mais incômodo sobre por que, nesta área específica, a evidência que
-*resolveria* a questão é sistematicamente indisponível. Os dois vêm em um texto
-posterior. Por ora só sinalizo, porque um argumento que silenciosamente depende de
-dados que não consegue produzir está fazendo algo desonesto, e eu prefiro dizer em
-voz alta.
+Tem um caso francês vindo no próximo texto que torna isso concreto. Por ora: a
+lista existe, você está nela, ninguém te perguntou.
 
 ## O conselho foi herdado, não derivado
 
-Aqui está a parte incômoda.
+Volte ao conselho. Fique quieto, negue, tenha algo para entregar. Num mundo em que
+quase ninguém está te procurando e ninguém consegue te separar da multidão, isso é
+quase uma defesa completa, porque o ataque em geral nem começa.
 
-O conselho padrão — não conte a ninguém, negue se perguntarem, tenha uma
-carteirinha para entregar — é perfeitamente sensato **para o mundo daquelas quatro
-condições**. Num mundo em que quase ninguém está te procurando e ninguém consegue
-te separar da multidão, ficar quieto é quase uma defesa completa, porque o ataque
-em geral nunca começa.
+Ninguém derivou aquilo de um modelo de ameaça. Foi herdado de uma época, e a época
+acabou.
 
-Esse conselho nunca foi derivado de um modelo de ameaça. Ele foi herdado de uma
-época. E a época acabou.
+No que ele se transforma depois são dois problemas separados, e vou pegar um de
+cada vez em textos futuros.
 
-No que ele se transforma, depois que a janela fecha, são dois problemas separados
-que eu vou pegar um de cada vez.
+Primeiro, deixou de ser um mecanismo. Uma defesa cuja força inteira é o atacante
+não saber de algo não é uma defesa em que você possa se apoiar depois que ele
+sabe. A engenharia de segurança tem nome e número de catálogo para isso, e todo
+mundo concorda que é defeito de projeto até o ativo em questão ser bitcoin.
 
-O primeiro é que ele deixou de ser um mecanismo. Uma defesa cuja força inteira é o
-atacante não saber de algo não é algo em que você possa se apoiar depois que o
-atacante sabe — e em engenharia de segurança isso tem nome e número de catálogo, e
-todo mundo concorda que é defeito de projeto, até o ativo em questão ser bitcoin.
-É o texto depois do próximo.
+Segundo, e esse é o pior, e é por isso que acabei escrevendo artigos em vez de uma
+listinha: nas condições em que de fato vivemos, aquele conselho não apenas deixa
+de proteger. Ele piora a situação da pessoa, durante um ataque e depois dele, e não
+só de quem seguiu o conselho.
 
-O segundo é pior, e é a razão de eu ter acabado escrevendo artigos acadêmicos
-sobre isso em vez de uma listinha de dicas. Nas condições em que de fato vivemos,
-esse conselho não apenas deixa de proteger. Ele **piora a situação** — durante o
-ataque e depois dele, e não só de quem seguiu o conselho. Esse não cabe num post,
-e é onde está o argumento de verdade.
+Nenhuma das quatro condições vai voltar, aliás. Conhecimento não desespalha,
+detentores não voltam a ser raros, listas vazadas continuam vazadas, e o crime
+organizado não esquece um modelo de negócio que funciona.
 
-Não existe versão disso em que a janela reabre. Cada uma das quatro condições foi
-embora numa direção que não volta: conhecimento não desespalha, detentores não
-voltam a ser raros, listas vazadas não desvazam, e o crime organizado não esquece
-um modelo de negócio que funciona.
-
-A boa notícia, se serve de consolo, é que uma defesa que nunca dependeu da
-ignorância do atacante não liga a mínima para nada disso. Construir uma, acontece,
-é possível. Só não é o que estão te mandando fazer.
+Uma defesa que nunca dependeu da ignorância do atacante não liga para nada disso.
+Construir uma, acontece, é possível. Só não é o que estão te mandando fazer.
 
 ---
 
@@ -171,11 +121,22 @@ ignorância do atacante não liga a mínima para nada disso. Construir uma, acon
 [***The Deadly Race***](https://doi.org/10.5281/zenodo.22778256) *— o que decorre
 do fato de você não conseguir provar que esqueceu; e*
 [***The Denial Spiral***](https://doi.org/10.5281/zenodo.22778480) *— por que o
-conselho de esconder e negar fica pior para todo mundo quanto mais gente o segue.
-Os dois são gratuitos e nenhum exige cadastro.*
+conselho de esconder e negar piora para todo mundo quanto mais gente o segue.
+Gratuitos, sem cadastro.*
 
-*Os dados de incidentes vêm do* [*registro público de ataques físicos de Jameson
-Lopp*](https://github.com/jlopp/physical-bitcoin-attacks)*, que é uma amostra de
-imprensa: perde tudo que não é noticiado e super-representa o que virou manchete.
-Casos novos que eu encontro vão para esse registro, e não para uma base de dados
-minha, porque essa informação é de todo mundo — inclusive de quem for o próximo.*
+*Dados de incidentes vêm do* [*registro público de ataques físicos de Jameson
+Lopp*](https://github.com/jlopp/physical-bitcoin-attacks)*, uma amostra de
+imprensa: perde tudo que não é noticiado e pesa demais o que virou manchete. Casos
+novos que eu encontro vão para lá e não para uma base minha, porque essa
+informação é de todo mundo, inclusive de quem for o próximo.*
+
+---
+
+**Se isso valeu seu tempo.** Mande para alguém que ainda segue o conselho antigo,
+isso faz mais diferença do que qualquer outra coisa aqui. Uma ⭐ no
+[Great Wall](https://github.com/Yuri-SVB/Great-Wallet), na
+[pesquisa](https://github.com/Yuri-SVB/great-wall-docs) ou
+[nestes textos](https://github.com/Yuri-SVB/great-wall-posts) não custa nada e faz
+o trabalho ser encontrado. E se quiser financiá-lo, o
+[apoio](https://github.com/Yuri-SVB/support) aceita ⚡ Lightning e on-chain, sem
+cadastro, sem níveis, sem contrapartida.

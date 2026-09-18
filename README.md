@@ -38,9 +38,10 @@ Newest first.
 **2026-09-17** · [`posts/003-the-window-has-closed/`](posts/003-the-window-has-closed/)
 [English](posts/003-the-window-has-closed/en.md) ·
 [Português](posts/003-the-window-has-closed/pt-BR.md) ·
+[Español](posts/003-the-window-has-closed/es.md) ·
 [Français](posts/003-the-window-has-closed/fr.md) ·
 [Italiano](posts/003-the-window-has-closed/it.md)
 
-Four things used to be true about getting robbed for your bitcoin. None of them
-are true now, and none of them are coming back — which means the standing advice
-was inherited from a period rather than derived from a threat model.
+The standard advice on not getting robbed for your bitcoin was good advice for a
+world that stopped existing. Four conditions used to make holding safe; the one
+that mattered was that nobody could tell which person held.

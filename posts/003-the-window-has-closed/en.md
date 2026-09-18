@@ -1,180 +1,141 @@
+
 # The Window Has Closed
 
-**Four things used to be true about getting robbed for your bitcoin. None of them
-are true anymore, and none of them are coming back. Almost all of the advice you
-have been given about protecting yourself was calibrated for the world in which
-they were true.**
+Everyone gives the same advice about not getting robbed for your bitcoin. Don't
+tell anyone. If someone asks, deny it. Keep a small wallet you can hand over.
 
-![The four conditions that made early holding safe, with identification struck out. A claim about incentives, not a measurement.](assets/m1-four-panes.png)
+I don't think it's stupid advice. I think it was good advice for a world that
+stopped existing, and nobody went back to check.
 
----
+<p align="center"><img src="assets/m1-four-panes.png" alt="The four conditions that made early holding safe, with identification struck out. A claim about incentives, not a measurement." width="460"></p>
 
-## There was once a time
+## Four things that used to be true
 
-Think about what had to go right for you, back then, for a wrench attack to not
-happen.
+1. Most thieves had never even heard of bitcoin.
 
-**First, most thieves had no idea what bitcoin was.** Not "underestimated it" — had
-never heard the word. The category of criminal who could even form the intention
-to rob you of a private key was vanishingly small.
+2. The ones who had were unlikely to meet you (akin to finding a needle in a haystack).
 
-**Second, even the ones who knew were unlikely to ever meet you.** There were not
-many holders. Encountering one by chance, in the course of an ordinary burglary,
-was a coincidence that mostly did not happen.
+3. If they did, more likely than not, they wouldn't know that you, specifically,
+were a holder. (The window of effectiveness of discretion as a defence.)
 
-**Third, and this is the one people forget: they had to know it was you.** Meeting
-a holder is not the same as identifying one. Without a way to tell holders from
-everyone else, knowledge of bitcoin buys a thief nothing. It is a capability with
-no targeting.
+4. Finally, if all of that failed and someone did turn up at your door, you probably knew
+more than he did. The early holder was typically an OG, cypherpunk or a cryptographer,
+someone who'd read the mailing list. The attacker was typically improvising. The
+technical asymmetry tended to run your way.
 
-**Fourth, if all three failed and someone did come for you, you probably knew more
-than they did.** The early holder was typically a cypherpunk, a cryptographer, someone 
-who had read the mailing list. The attacker was typically an amateur with a plan he 
-had improvised that week. The technical asymmetry would tend to run in the victim's
-favour.
+Four separate things, all pointing the same direction. It really was fairly safe
+in there.
 
-That was a real window, and it was genuinely quite safe in there.
+## None of them hold now
 
-## What replaced each of them
+The first two don't need arguing.
 
-Take them in order.
+The fourth has gone into reverse. French prosecutors have charged 88 people across
+a dozen linked kidnapping and extortion cases. That isn't a run of opportunists,
+it's organisations, with reconnaissance and division of labour and repeat
+business. Meanwhile the holder they're coming for is now, statistically, somebody
+who bought some bitcoin on an app. The cryptographer-versus-amateur matchup has
+roughly swapped ends.
 
-**Everybody knows what bitcoin is.** That one needs no argument.
+You can see it in the shape of the attacks too. One industry count for the first
+half of 2026 has reported home invasions going from 1 to 20 out of 52 incidents,
+year on year. It's moving to where people live.
 
-**There are a great many holders.** Also no argument needed.
+<p align="center"><img src="assets/m6-home-invasions.png" alt="Reported home invasions rose from 1 to 20 of 52 incidents year on year. Industry count; verified incidents only, press-sourced, directional." width="460"></p>
 
-**And now they can tell it is you.** This is the one that actually changed the
-game, and I will come back to it in a moment, because it deserves its own section.
+On counts in general: several series exist, they disagree with each other about
+the numbers, and they agree completely about the direction. A handful a year
+before 2017, dozens a year now. The registries are built from press reports, so
+they miss anything unreported and over-weight whatever made the news. Pick
+whichever series you like. They all slope the same way.
 
-**And the asymmetry has flipped.** The people doing this are not improvising.
-French prosecutors have charged 88 people across a dozen linked kidnapping and
-extortion cases — that is not a run of opportunists, that is organisations, with
-reconnaissance, division of labour, and repeat business. Meanwhile the holder they
-come for is now, statistically, a normal person who bought some bitcoin on an app.
-The cryptographer-versus-amateur matchup has become something closer to its
-opposite.
+That leaves the third condition, which is the one that actually closed the window,
+and it needs its own section.
 
-You can watch the shift in the shape of the attacks, too. In one industry count of
-the first half of 2026, reported **home invasions** went from **1 to 20** out of 52
-incidents year on year. The attack is moving to where people live. That is not the
-profile of a crime of opportunity.
+## Somebody has a list — factor 3
 
-![Reported home invasions rose from 1 to 20 of 52 incidents year on year. Industry count; verified incidents only, press-sourced, directional.](assets/m6-home-invasions.png)
+To come after you specifically, a thief needs a list. For most of bitcoin's
+history there wasn't one.
 
-On counts generally: there are several available series for how many of these
-happen per year, they disagree with each other about the exact numbers, and they
-agree completely about the direction — a handful a year before 2017, dozens a year
-now. I would rather tell you that than pick whichever number is most alarming and
-present it as settled. The registries are built from press reports, so they miss
-everything unreported and over-represent whatever made the news.
+Now there are several, and you didn't agree to any of them.
+Threat-intelligence reporting on the 2026 wave puts victim selection down to
+leaked databases, tax records and exchange data, plus insider sales of customer
+lists and dark-web recruitment of staff with database access. Chain analysis on
+top of that. A decade of people posting about their stack on top of that.
 
-## The target list is public now
+These are records held by other people, which you can't audit and can't revoke.
+You can't un-create a record and you can't un-leak a leak. Whatever your exchange
+knew about you in 2019 it knows permanently, and so does anybody who has since got
+hold of what it knew.
 
-Here is the part that closed the window for good.
+<p align="center"><img src="assets/m3-shredder.png" alt="A KYC record goes into a shredder and comes out intact. You cannot un-leak a leak." width="460"></p>
 
-For a thief to target you specifically, they need a list. For most of bitcoin's
-history there was no list. Now there are many, and you did not consent to a single
-one of them.
+That does something strange to the economics of keeping quiet, and both halves of
+it work against you. Staying private costs more every year: every year you hold,
+every counterparty you deal with, every service that suddenly wants a document.
+And it's worth less every year, because your discretion only buys you anything if
+nobody has published you already.
 
-Threat-intelligence reporting on the 2026 wave attributes victim selection to
-leaked databases, tax records, and exchange data — plus insider sales of customer
-lists and dark-web recruitment of employees with database access. Chain analysis
-sits on top of that. And a decade of people talking about their holdings online
-sits on top of *that*.
+<p align="center"><img src="assets/m2-scissors.png" alt="Two schematic curves: the cost of staying private rising, its value falling. Neither is quantified; the shape is the claim." width="680"></p>
 
-Notice what kind of problem this is. These are **records held by third parties,
-which you can neither audit nor revoke.** You cannot un-create a record. You cannot
-un-leak a leak. Whatever the exchange knows about you, it knows permanently, and so
-does anyone who ever obtains what the exchange knows.
+If you declare your taxes it's worse than that, because the strategy isn't
+available to you at all. Where gains are reportable, "leave no record" isn't
+discretion, it's a crime. So the honest holder gets told to hide by people who
+haven't noticed that the law doesn't let him.
 
-![A KYC record goes into a shredder and comes out intact. You cannot un-leak a leak.](assets/m3-shredder.png)
-
-Which means discretion has a very unusual cost curve, and both halves of it run
-against you. The price of staying private compounds with every year you hold and
-every counterparty you deal with. The benefit shrinks as the pile of
-already-leaked records grows, because your discretion is only worth something if
-nobody else has already published you. You are paying more, every year, for
-something worth less, every year.
-
-![Two schematic curves: the cost of staying private rising, its value falling. Neither is quantified; the shape is the claim.](assets/m2-scissors.png)
-
-And if you are tax-compliant, the strategy is not even available. Where holdings
-or gains are reportable, "leave no record" is not discretion — it is a crime. So
-the honest holder is told to hide, by people who have not noticed that hiding is
-something the law does not permit them to do.
-
-I have a whole post coming about the French tax-administration case that puts this
-beyond argument. For now: the list exists, you are on it, and you were never asked.
-
-## What kind of claim this is
-
-A fair question at this point is: how would you know if this were wrong?
-
-You wouldn't, and I want to be straight about that rather than dress it up.
-
-This is not a prediction you could falsify by counting. It is a claim about
-structure — about what people with these incentives, facing these constraints, do.
-The cases and the counts in this post are **illustrations of the structure, not
-evidence for it**. If the registry showed half as many attacks next year, not one
-sentence above would become false; the incentives would be exactly what they are
-now.
-
-That sounds like a weakness. There is a longer argument that it isn't — and a much
-more uncomfortable argument about why, in this particular field, the evidence that
-*would* settle things is systematically unavailable. Both are coming in a later
-post. For now I will just flag it, because an argument that quietly relies on data
-it cannot produce is doing something dishonest, and I would rather say the thing
-out loud.
+There's a French case coming in the next post that makes this concrete. For now:
+the list exists, you're on it, nobody asked you.
 
 ## The advice was inherited, not derived
 
-So here is the uncomfortable bit.
+Go back to the counsel. Hold quietly, deny it, keep something to hand over. In a
+world where almost nobody is looking for you and nobody can pick you out of a
+crowd, that's close to a complete defence, because the attack mostly never starts.
 
-The standing advice — hold quietly, deny it if asked, keep a small wallet to hand
-over — is perfectly sensible advice **for the world of those four conditions.** In
-a world where almost nobody is looking for you and nobody can pick you out of a
-crowd, staying quiet is close to a complete defence, because the attack mostly
-never starts.
+Nobody derived it from a threat model. It got inherited from a period, and the
+period ended.
 
-That advice was never derived from a threat model. It was inherited from a period.
-And the period ended.
+What it turns into afterwards is two separate problems, and I'll take them one at
+a time in later posts.
 
-What it turns into, once the window closes, is two separate problems that I will
-take one at a time.
+First, it stopped being a mechanism. A defence whose whole strength is the
+attacker not knowing something isn't a defence you can lean on once he knows.
+Security engineering has a name for that and a catalogue entry, and everybody
+agrees it's a design defect right up until the asset in question is bitcoin.
 
-The first is that it stopped being a mechanism. A defence whose entire strength is
-that the attacker does not know something is not something you can rely on once
-the attacker knows — and in security engineering, that has a name and a
-catalogue entry, and everyone agrees it is a design defect, right up until the
-asset in question is bitcoin. That's the next post but one.
+Second, and this is the worse one, and it's why I ended up writing papers instead
+of a checklist: under the conditions we actually live in, that advice doesn't
+merely stop protecting people. It makes things worse for them, during an attack
+and after one, and not only for the person who took it.
 
-The second is worse, and it is the reason I ended up writing papers about this
-rather than a checklist. Under the conditions we now actually live in, that advice
-does not merely stop protecting people. It **makes their situation worse** — both
-during an attack and after one, and not only for the person who followed it. That
-one takes more space than a blog post, and it is where the real argument is.
+None of the four conditions is coming back, either. Knowledge doesn't un-spread,
+holders don't get rare again, leaked lists stay leaked, and organised crime
+doesn't forget a business model that works.
 
-There is no version of this where the window reopens. Every one of the four
-conditions is gone in a direction that does not reverse: knowledge doesn't
-un-spread, holders don't become rare again, leaked lists don't unleak, and organised
-crime doesn't forget a working business model.
-
-The good news, such as it is, is that a defence that never depended on the
-attacker's ignorance doesn't care about any of this. Building one turns out to be
-possible. It just isn't what anybody is currently telling you to do.
+A defence that never relied on the attacker's ignorance doesn't care about any of
+this. Building one turns out to be possible. It just isn't what anybody is telling
+you to do.
 
 ---
 
 *The full arguments are in two open-access papers:*
 [***The Deadly Race***](https://doi.org/10.5281/zenodo.22778256) *— what follows
-from the fact that you cannot prove you forgot something; and*
+from the fact that you can't prove you forgot something; and*
 [***The Denial Spiral***](https://doi.org/10.5281/zenodo.22778480) *— why advice to
-conceal and deny gets worse for everyone the more people take it. Both are free,
-neither is behind a signup.*
+conceal and deny gets worse for everybody the more people take it. Both free,
+neither behind a signup.*
 
-*Incident data in this post comes from* [*Jameson Lopp's public registry of
-physical attacks*](https://github.com/jlopp/physical-bitcoin-attacks)*, which is a
-press-sourced sample: it misses everything unreported and over-represents whatever
-made the news. New cases I find go upstream to that registry rather than into any
-database of mine, because that information belongs to everyone — including whoever
-is next.*
+*Incident data comes from* [*Jameson Lopp's public registry of physical
+attacks*](https://github.com/jlopp/physical-bitcoin-attacks)*, a press-sourced
+sample: it misses everything unreported and over-weights whatever made the news.
+New cases I find go upstream to that registry rather than into any database of
+mine, because that information belongs to everyone, including whoever's next.*
+
+---
+
+**If this was worth your time.** Send it to someone still running the old advice,
+that does more than anything else here. A ⭐ on [Great Wall](https://github.com/Yuri-SVB/Great-Wallet),
+[the research](https://github.com/Yuri-SVB/great-wall-docs) or [these posts](https://github.com/Yuri-SVB/great-wall-posts)
+costs nothing and makes the work easier to find. And if you want to fund it,
+[support](https://github.com/Yuri-SVB/support) takes ⚡ Lightning and on-chain, no
+signup, no tiers, nothing expected back.

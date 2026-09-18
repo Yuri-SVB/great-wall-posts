@@ -7,7 +7,7 @@ The feed itself is in the [repository README](../README.md).
 | Post | Languages planned |
 |---|---|
 | The (F/W)rench Attack | en · pt-BR · fr · it |
-| Gold With Extra Steps | en · pt-BR |
+| From Magic Internet Money to Gold With Extra Steps | en · es · pt-BR |
 | Obscurity, the Clearest Problem Nobody Talks About | en · pt-BR · fr · it |
 | The Deadly Race | en |
 | They Only Took My Pokémon Cards | en · sv |
@@ -18,7 +18,7 @@ The feed itself is in the [repository README](../README.md).
 
 ```
 posts/NNN-kebab-case-title/
-    en.md  pt-BR.md  fr.md  it.md      one file per language, IETF tag
+    en.md  pt-BR.md  es.md  fr.md  it.md    one file per language, IETF tag
     assets/                            figures, embedded by every edition
 ```
 
