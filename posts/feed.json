@@ -1,0 +1,14 @@
+{
+  "_comment": "Feed metadata for the posts. The site generator reads this; the README feed is written by hand and should agree with it. Titles are not here on purpose - they are the first heading of each language file, so they cannot drift.",
+  "posts": [
+    {
+      "id": "003",
+      "slug": "003-the-window-has-closed",
+      "date": "2026-09-17",
+      "languages": ["en", "pt-BR", "es", "fr", "it"],
+      "summary": {
+        "en": "The standard advice on not getting robbed for your bitcoin was good advice for a world that stopped existing. Four conditions used to make holding safe; the one that mattered was that nobody could tell which person held."
+      }
+    }
+  ]
+}
