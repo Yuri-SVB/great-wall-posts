@@ -125,7 +125,7 @@ qu'on vous dit de faire.
 ---
 
 *Les arguments complets sont dans deux articles en libre accès :*
-[***The Deadly Race***](https://doi.org/10.5281/zenodo.22778256) *— ce qui découle
+[***The Deadly Race***](https://doi.org/10.5281/zenodo.22018891) *— ce qui découle
 du fait qu'on ne peut pas prouver qu'on a oublié ; et*
 [***The Denial Spiral***](https://doi.org/10.5281/zenodo.22778480) *— pourquoi le
 conseil de dissimuler et de nier empire pour tout le monde à mesure qu'il est

@@ -123,7 +123,7 @@ nadie te está diciendo que hagas.
 ---
 
 *Los argumentos completos están en dos papers de acceso abierto:*
-[***The Deadly Race***](https://doi.org/10.5281/zenodo.22778256) *— lo que se
+[***The Deadly Race***](https://doi.org/10.5281/zenodo.22018891) *— lo que se
 sigue de que no puedas demostrar que has olvidado algo; y*
 [***The Denial Spiral***](https://doi.org/10.5281/zenodo.22778480) *— por qué el
 consejo de ocultar y negar empeora para todos cuanta más gente lo sigue. Gratis y

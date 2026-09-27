@@ -118,7 +118,7 @@ Construir uma, acontece, é possível. Só não é o que estão te mandando faze
 ---
 
 *Os argumentos completos estão em dois artigos de acesso aberto:*
-[***The Deadly Race***](https://doi.org/10.5281/zenodo.22778256) *— o que decorre
+[***The Deadly Race***](https://doi.org/10.5281/zenodo.22018891) *— o que decorre
 do fato de você não conseguir provar que esqueceu; e*
 [***The Denial Spiral***](https://doi.org/10.5281/zenodo.22778480) *— por que o
 conselho de esconder e negar piora para todo mundo quanto mais gente o segue.

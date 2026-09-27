@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://doi.org/10.5281/zenodo.22778256"><b>The Deadly Race</b></a> ·
+  <a href="https://doi.org/10.5281/zenodo.22018891"><b>The Deadly Race</b></a> ·
   <a href="https://doi.org/10.5281/zenodo.22778480"><b>The Denial Spiral</b></a> ·
   <a href="https://github.com/Yuri-SVB/support">Support</a>
 </p>

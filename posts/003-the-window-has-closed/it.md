@@ -125,7 +125,7 @@ che ti stanno dicendo di fare.
 ---
 
 *Gli argomenti completi sono in due articoli ad accesso aperto:*
-[***The Deadly Race***](https://doi.org/10.5281/zenodo.22778256) *— cosa segue dal
+[***The Deadly Race***](https://doi.org/10.5281/zenodo.22018891) *— cosa segue dal
 fatto che non puoi dimostrare di aver dimenticato; e*
 [***The Denial Spiral***](https://doi.org/10.5281/zenodo.22778480) *— perché il
 consiglio di nascondere e negare peggiora per tutti man mano che viene seguito.

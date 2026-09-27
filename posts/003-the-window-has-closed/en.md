@@ -119,7 +119,7 @@ you to do.
 ---
 
 *The full arguments are in two open-access papers:*
-[***The Deadly Race***](https://doi.org/10.5281/zenodo.22778256) *— what follows
+[***The Deadly Race***](https://doi.org/10.5281/zenodo.22018891) *— what follows
 from the fact that you can't prove you forgot something; and*
 [***The Denial Spiral***](https://doi.org/10.5281/zenodo.22778480) *— why advice to
 conceal and deny gets worse for everybody the more people take it. Both free,
