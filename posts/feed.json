@@ -77,6 +77,81 @@
       "summary": {
         "en": "Guarding bitcoin yourself now costs about what a vault costs: roughly 0.55 percent a year for individual holders, on the August registry snapshot, against 0.5 to 1.5 percent for institutional gold storage. If you are already paying vault prices, the dice rolls and the steel plates are a ritual with a price tag."
       }
+    },
+    {
+      "id": "008",
+      "slug": "008-the-french-attack",
+      "date": "2026-10-05",
+      "languages": [
+        "en",
+        "pt-BR",
+        "es",
+        "fr",
+        "it"
+      ],
+      "summary": {
+        "en": "A tax-office database was allegedly queried for people who had declared crypto gains, by an employee under judicial investigation since 2025. Which means the compliant holder gets to choose between an offense and a register that has been mined for targets, and that is what finishes off keeping a low profile as a mechanism."
+      }
+    },
+    {
+      "id": "002",
+      "slug": "002-obscurity-the-clearest-problem",
+      "date": "2026-10-05",
+      "languages": [
+        "en",
+        "pt-BR",
+        "es",
+        "fr",
+        "it"
+      ],
+      "summary": {
+        "en": "Security through obscurity is condescending before it is anything else: it assumes the person with the wrench is too stupid to read the manual that describes your trick. France has charged 88 people across 12 organized cases as of April 2026, which is networks doing reconnaissance, not opportunists who cannot read."
+      }
+    },
+    {
+      "id": "004",
+      "slug": "004-they-only-took-my-pokemon-cards",
+      "date": "2026-10-05",
+      "languages": [
+        "en",
+        "pt-BR",
+        "es",
+        "fr",
+        "it"
+      ],
+      "summary": {
+        "en": "A Swedish streamer was bound and tortured for hours over bitcoin he said he did not have, and the attackers left with his Pokemon cards. There are three ways to read that denial and the advice comes out worse under all of them, which is the point."
+      }
+    },
+    {
+      "id": "012",
+      "slug": "012-bloodshed",
+      "date": "2026-10-05",
+      "languages": [
+        "en",
+        "pt-BR",
+        "es",
+        "fr",
+        "it"
+      ],
+      "summary": {
+        "en": "Take today's wrench-attack numbers and apply them to the maximalist future everyone says they want. Burglaries of occupied homes times the share that end in a death puts England and Wales level with Ukraine's 2025 civilian war deaths. A conditional extrapolation, not a forecast, and every step is shown."
+      }
+    },
+    {
+      "id": "005",
+      "slug": "005-the-balland-case",
+      "date": "2026-10-05",
+      "languages": [
+        "en",
+        "pt-BR",
+        "es",
+        "fr",
+        "it"
+      ],
+      "summary": {
+        "en": "A co-founder of Ledger was seized from his home and mutilated. What got him out was an elite police unit and a centralized stablecoin freeze, both of them outside the creed he helped build. The lesson is not that he erred."
+      }
     }
   ]
 }
