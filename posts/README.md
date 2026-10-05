@@ -4,15 +4,17 @@ The feed itself is in the [repository README](../README.md).
 
 ## Coming
 
-| Post | Languages planned |
-|---|---|
-| The (F/W)rench Attack | en · pt-BR · fr · it |
-| From Magic Internet Money to Gold With Extra Steps | en · es · pt-BR |
-| Obscurity, the Clearest Problem Nobody Talks About | en · pt-BR · fr · it |
-| The Deadly Race | en |
-| They Only Took My Pokémon Cards | en · sv |
-| The Balland Case — an Embarrassment to the Self-Custody Creed | en · fr |
-| Anosognosia | en |
+In publication order. Every post ships in English, Portuguese, Spanish, French
+and Italian; there is no per-post language plan.
+
+- The (F/W)rench Attack *(written)*
+- From Magic Internet Money to Gold With Extra Steps
+- Obscurity, the Clearest Problem Nobody Talks About *(written)*
+- The Deadly Race *(written)*
+- They Only Took My Pokémon Cards *(written; a Swedish edition is planned and needs a human translator)*
+- Bloodshed *(written)*
+- The Balland Case — an Embarrassment to the Self-Custody Creed *(written; cover pending)*
+- Anosognosia *(written; cover pending)*
 
 ## Layout
 

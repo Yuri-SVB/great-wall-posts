@@ -1,13 +1,81 @@
 {
-  "_comment": "Feed metadata for the posts. The site generator reads this; the README feed is written by hand and should agree with it. Titles are not here on purpose - they are the first heading of each language file, so they cannot drift.",
+  "_comment": "Feed metadata for the posts the site renders. Published posts only: a post whose files are on the mirror but which has not run anywhere yet is deliberately absent, because the site's feed says published. Titles are not here on purpose - they are the first heading of each language file, so they cannot drift.",
   "posts": [
     {
       "id": "003",
       "slug": "003-the-window-has-closed",
       "date": "2026-09-17",
-      "languages": ["en", "pt-BR", "es", "fr", "it"],
+      "languages": [
+        "en",
+        "pt-BR",
+        "es",
+        "fr",
+        "it"
+      ],
       "summary": {
         "en": "The standard advice on not getting robbed for your bitcoin was good advice for a world that stopped existing. Four conditions used to make holding safe; the one that mattered was that nobody could tell which person held."
+      }
+    },
+    {
+      "id": "009",
+      "slug": "009-esconder-bitcoin-ainda-protege",
+      "date": "2026-09-22",
+      "venue": "bitcoinblock.com.br",
+      "venue_url": "https://bitcoinblock.com.br/2026/09/22/esconder-bitcoin-ainda-protege/",
+      "languages": [
+        "pt-BR",
+        "en",
+        "es",
+        "fr",
+        "it"
+      ],
+      "summary": {
+        "en": "Hiding your bitcoin is the standard advice for anyone afraid of being kidnapped over it, and all three parts of it are bets on what the criminal will believe. Brazil records nine kidnappings for every armed robbery, on a small and press-sourced sample."
+      }
+    },
+    {
+      "id": "006",
+      "slug": "006-the-deadly-race",
+      "date": "2026-10-04",
+      "languages": [
+        "en",
+        "pt-BR",
+        "es",
+        "fr",
+        "it"
+      ],
+      "summary": {
+        "en": "A partial seizure doesn't leave you half-robbed. It leaves you as the competitor standing between an attacker and the money, and a racer within reach is cheaper to remove than to outrun. The test the argument gives you is blunt: clear success or clear failure, never a race."
+      }
+    },
+    {
+      "id": "007",
+      "slug": "007-anosognosia",
+      "date": "2026-10-04",
+      "languages": [
+        "en",
+        "pt-BR",
+        "es",
+        "fr",
+        "it"
+      ],
+      "summary": {
+        "en": "What Alzheimer's, a stroke ward and an 1847 maternity hospital have to do with Bitcoin self-custody. Four mechanisms censor the evidence about hiding your holdings, and the fourth is why publishing the first three changes nothing."
+      }
+    },
+    {
+      "id": "001",
+      "slug": "001-magic-internet-money",
+      "date": "2026-10-04",
+      "languages": [
+        "en",
+        "pt-BR",
+        "es",
+        "fr",
+        "it"
+      ],
+      "summary": {
+        "en": "Guarding bitcoin yourself now costs about what a vault costs: roughly 0.55 percent a year for individual holders, on the August registry snapshot, against 0.5 to 1.5 percent for institutional gold storage. If you are already paying vault prices, the dice rolls and the steel plates are a ritual with a price tag."
       }
     }
   ]
