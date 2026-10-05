@@ -1,16 +1,29 @@
-
+---
+id: 003
+título: "La Ventana Se Cerró"
+subtítulo: "Cuatro cosas eran ciertas sobre que te robaran tu bitcoin. Ninguna lo es ya, y ninguna va a volver."
+idioma: es
+autor: Yuri da Silva Villas Boas
+fecha_publicación: 2026-09-17
+papers: [DR, DS]
+tiempo_de_lectura: ~8 min
+portada: assets/cover-1200x675.webp
+portada_alt: "Un montón de agujas de coser fotografiado sobre fondo liso, sin pajar por ningún lado. Ser difícil de distinguir era toda la defensa, y es justo la condición que se acabó. Afirmación sobre incentivos, no medición."
+---
 # La Ventana Se Cerró
 
-Todo el mundo da el mismo consejo sobre cómo no acabar robado por tu bitcoin. No
-se lo cuentes a nadie. Si te preguntan, niégalo. Ten una cartera pequeña para
-entregar.
+<p align="center"><img src="assets/cover-1200x675.webp" alt="Un montón de agujas de coser fotografiado sobre fondo liso, sin pajar por ningún lado. Ser difícil de distinguir era toda la defensa, y es justo la condición que se acabó. Afirmación sobre incentivos, no medición." width="680"></p>
+
+A los tenedores de bitcoin todo el mundo les da el mismo consejo sobre cómo no
+acabar robados. No se lo cuentes a nadie. Si te preguntan, niégalo. Ten una
+cartera pequeña para entregar.
 
 No me parece un consejo tonto. Me parece un buen consejo para un mundo que dejó de
 existir, y nadie ha vuelto a comprobarlo.
 
 <p align="center"><img src="assets/m1-four-panes.png" alt="Las cuatro condiciones que hacían seguro tener bitcoin al principio, con la identificación tachada. Afirmación sobre incentivos, no medición." width="460"></p>
 
-## Cuatro cosas que antes eran ciertas
+## Cuatro cosas que protegían a los tenedores de bitcoin
 
 1. La mayoría de los ladrones no había ni oído hablar de bitcoin.
 
@@ -88,6 +101,26 @@ dado cuenta de que la ley no se lo permite.
 Hay un caso francés en el próximo texto que lo pone concreto. Por ahora: la lista
 existe, estás en ella, nadie te preguntó.
 
+## Qué tipo de afirmación es esta
+
+Llegados aquí la pregunta justa es: ¿cómo sabrías si esto estuviera mal?
+
+No lo sabrías, y prefiero decirlo a maquillarlo.
+
+Esto no es una predicción que puedas falsar contando casos. Es una afirmación
+sobre estructura, sobre lo que hace gente con estos incentivos y estas
+restricciones. Los casos y los recuentos de este texto son ilustraciones de esa
+estructura, no evidencia de ella. Si el registro mostrara la mitad de ataques el
+año que viene, ni una frase de las de arriba se volvería falsa, porque los
+incentivos seguirían siendo exactamente los que son.
+
+Suena a debilidad. Hay un argumento más largo de que no lo es, y otro bastante
+más incómodo sobre por qué en este campo en concreto la evidencia que
+*resolvería* la cuestión no está disponible de forma sistemática. Los dos llegan
+en un texto posterior. Por ahora solo lo señalo, porque un argumento que se apoya
+en silencio sobre datos que no puede producir está haciendo algo deshonesto, y
+prefiero decirlo en voz alta.
+
 ## El consejo se heredó, no se dedujo
 
 Vuelve al consejo. Estate callado, niégalo, ten algo que entregar. En un mundo
@@ -97,24 +130,24 @@ casi una defensa completa, porque el ataque casi nunca llega a empezar.
 Nadie lo dedujo de un modelo de amenaza. Se heredó de una época, y la época
 terminó.
 
-En lo que se convierte después son dos problemas distintos, y los cogeré de uno en
-uno en textos futuros.
+En lo que se convierte después son dos problemas distintos, y los cogeré de uno
+en uno en textos futuros.
 
-Primero, dejó de ser un mecanismo. Una defensa cuya fuerza entera es que el
+Uno es que dejó de ser un mecanismo. Una defensa cuya fuerza entera es que el
 atacante no sepa algo no es una defensa en la que apoyarte una vez lo sabe. La
 ingeniería de seguridad tiene nombre y entrada de catálogo para eso, y todo el
 mundo está de acuerdo en que es un defecto de diseño hasta que el activo en
 cuestión es bitcoin.
 
-Segundo, y este es el peor, y es por lo que acabé escribiendo papers en vez de una
-lista de consejos: en las condiciones en las que vivimos de verdad, ese consejo no
-solo deja de proteger. Empeora la situación de la persona, durante un ataque y
+El otro es el peor, y es por lo que acabé escribiendo papers en vez de una lista
+de consejos: en las condiciones en las que vivimos de verdad, ese consejo no solo
+deja de proteger. Empeora la situación de la persona, durante un ataque y
 después, y no solo la de quien lo siguió.
 
 Ninguna de las cuatro condiciones va a volver, por cierto. El conocimiento no se
-desparrama hacia atrás, los tenedores no vuelven a ser raros, las listas filtradas
-siguen filtradas, y el crimen organizado no olvida un modelo de negocio que
-funciona.
+desparrama hacia atrás, los tenedores de bitcoin no vuelven a ser raros, las
+listas filtradas siguen filtradas, y el crimen organizado no olvida un modelo de
+negocio que funciona.
 
 Una defensa que nunca dependió de la ignorancia del atacante se desentiende de
 todo esto. Construir una resulta que es posible. Lo que pasa es que no es lo que
@@ -123,9 +156,9 @@ nadie te está diciendo que hagas.
 ---
 
 *Los argumentos completos están en dos papers de acceso abierto:*
-[***The Deadly Race***](https://doi.org/10.5281/zenodo.22018891) *— lo que se
+[***The Deadly Race***](https://zenodo.org/doi/10.5281/zenodo.22018891) *— lo que se
 sigue de que no puedas demostrar que has olvidado algo; y*
-[***The Denial Spiral***](https://doi.org/10.5281/zenodo.22778480) *— por qué el
+[***The Denial Spiral***](https://zenodo.org/doi/10.5281/zenodo.22778480) *— por qué el
 consejo de ocultar y negar empeora para todos cuanta más gente lo sigue. Gratis y
 sin registro.*
 
