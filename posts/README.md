@@ -4,17 +4,15 @@ The feed itself is in the [repository README](../README.md).
 
 ## Coming
 
-In publication order. Every post ships in English, Portuguese, Spanish, French
-and Italian; there is no per-post language plan.
+Every post ships in English, Portuguese, Spanish, French and Italian; there is no
+per-post language plan. The ten posts that have run are in the
+[repository README](../README.md).
 
-- The (F/W)rench Attack *(written)*
-- From Magic Internet Money to Gold With Extra Steps
-- Obscurity, the Clearest Problem Nobody Talks About *(written)*
-- The Deadly Race *(written)*
-- They Only Took My Pokémon Cards *(written; a Swedish edition is planned and needs a human translator)*
-- Bloodshed *(written)*
-- The Balland Case — an Embarrassment to the Self-Custody Creed *(written; cover pending)*
-- Anosognosia *(written; cover pending)*
+- Hot Takeaways of the Coldcard Hack *(written, English only; cover pending)*
+- A Prediction, Dated and Signed *(written, English only; cover pending)*
+
+A Swedish edition of They Only Took My Pokémon Cards is planned and needs a
+human translator. The Balland Case is running with a placeholder cover.
 
 ## Layout
 
